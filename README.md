@@ -1,2 +1,2 @@
 # android-math-battle
-Math Battle on Android
+An attempt to recreate Telegram's Math Battle on Android
